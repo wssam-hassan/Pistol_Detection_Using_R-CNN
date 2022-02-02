@@ -1,7 +1,7 @@
 # Pistol_Detection_Using_R-CNN
 
 ## About The Project
-This project is a part of the pipeline of the final project [Weapon Detection System](https://github.com/MahmoudMTaha/YoloV4-Weapons-Detection)<br>
+This project is a part of the pipeline of the final project [Weapon Detection System](https://github.com/wssam-hassan/YoloV4-Weapons-Detection)<br>
 As the first and supreme goal of science is to serve man-kind, and since the security and safety is one of the first and most important priorities, we worked on “Weapon Dectection Sysyem” depending on artificial intelligence and deep learning technologies that can detect weapons such as: pistols, knifes and rifles.<br>
 Starting with training several models including Region-Based Convolutional Neural Network (R-CNN), especially Faster R-CNN, with only pistols dataset to measure its performance.
 
