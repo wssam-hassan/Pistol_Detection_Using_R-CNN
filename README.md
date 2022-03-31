@@ -23,9 +23,9 @@ After 34K training step, the model gives these results:
 |   0.051       |    0.72       |     0.78      |     0.748     |   0.869     |
 
 ## Test On Images
-<img src="https://drive.google.com/uc?export=view&id=1V9DxyoD6rKbjU4Ar_V2b4EglWn0FqwNA" width="500" height="380"><img src="https://drive.google.com/uc?export=view&id=1gmd4jrxluWBKo8uc7zP_A9PTVb82ae4i" width="500" height="380">
+<img src="https://user-images.githubusercontent.com/86083432/160951464-9d312ec7-f823-49e1-b1af-f2ee8cf0595d.png" width="500" height="380"><img src="https://user-images.githubusercontent.com/86083432/160951545-267f119d-f872-488c-bc0c-8ece62b86b3b.png" width="500" height="380">
 <br>
-<img src="https://drive.google.com/uc?export=view&id=1927jkrbfAs5rUh24gbbSNvIhjhTalILw" width="500" height="371"><img src="https://drive.google.com/uc?export=view&id=1u8fWBcIRBxM0huwTqlculgcx1PRjWu_S" width="500">
+<img src="https://user-images.githubusercontent.com/86083432/160951491-13f33a8b-9f34-4c46-aa28-712d612a4792.png" width="500" height="371"><img src="https://user-images.githubusercontent.com/86083432/160951510-2312b35d-e88c-4d51-ad27-d31ac152ea8c.png" width="500">
 
 ## Test On Video
 https://user-images.githubusercontent.com/86083432/151704437-b24bbfda-a267-41c5-9705-1ecc334725e1.mp4
